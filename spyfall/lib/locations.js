@@ -334,5 +334,17 @@ locations = [
       'locations.roles.world war ii squad.imprisoned nazi',
       'locations.roles.world war ii squad.soldier'
     ]
+  },
+  {
+    name: 'Kaleb\'s house',
+    roles: [
+      'Shamus',
+      'Deserter Turtle',
+      'Evan',
+      'Arcade Machine',
+      'Ripped Pants',
+      'Diego',
+      'Chico'
+    ]
   }
 ];
